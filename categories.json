@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Food & Drink",
+    "icon": "🥘",
+    "lang": "food_n_drink",
+    "sub_category": [
+      {
+        "id": 1,
+        "name": "Groceries",
+        "icon": "🥦",
+        "lang": "food_n_drink_groceries"
+      },
+      {
+        "id": 2,
+        "name": "Cafe",
+        "icon": "🥂",
+        "lang": "food_n_drink_cafe"
+      },
+      {
+        "id": 3,
+        "name": "Restaurant, fast-food",
+        "icon": "🍟",
+        "lang": "food_n_drink_restaurant"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shopping",
+    "icon": "🛍️",
+    "lang": "shopping",
+    "sub_category": [
+      {
+        "id": 4,
+        "name": "Clothes",
+        "icon": "👕",
+        "lang": "shopping_clothes"
+      },
+      {
+        "id": 5,
+        "name": "Electronics",
+        "icon": "📻",
+        "lang": "shopping_electronics"
+      },
+      {
+        "id": 6,
+        "name": "Stationary, tools",
+        "icon": "📏",
+        "lang": "shopping_stationary"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Housing",
+    "icon": "🏡",
+    "lang": "housing",
+    "sub_category": [
+      {
+        "id": 7,
+        "name": "Energy, utilities",
+        "icon": "🔋",
+        "lang": "housing_energy_utilities"
+      },
+      {
+        "id": 8,
+        "name": "Mortgage",
+        "icon": "💸",
+        "lang": "housing_mortgage"
+      },
+      {
+        "id": 9,
+        "name": "Maintenance, repairs",
+        "icon": "🔨",
+        "lang": "housing_maintenance_repairs"
+      },
+      {
+        "id": 10,
+        "name": "Rent",
+        "icon": "🗝️",
+        "lang": "housing_rent"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Transportation",
+    "icon": "🚃",
+    "lang": "transportation",
+    "sub_category": [
+      {
+        "id": 11,
+        "name": "Public Transport",
+        "icon": "🚊",
+        "lang": "transportation_public_transport"
+      },
+      {
+        "id": 12,
+        "name": "Taxi",
+        "icon": "🚕",
+        "lang": "transportation_taxi"
+      },
+      {
+        "id": 13,
+        "name": "Business Trips",
+        "icon": "🛫",
+        "lang": "transportation_business_trips"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "icon": "📋",
+    "lang": "others",
+    "sub_category": [
+      {
+        "id": 14,
+        "name": "Other Income",
+        "icon": "↙️",
+        "lang": "others_income"
+      },
+      {
+        "id": 15,
+        "name": "Other Outcome",
+        "icon": "↗️",
+        "lang": "others_outcome"
+      }
+    ]
+  }
+]

@@ -9,25 +9,29 @@
         "id": "e602c33f-c12c-4e4d-b03c-429245bf3508",
         "name": "Food & Drink",
         "icon": "🥘",
-        "lang": "food_n_drink"
+        "lang": "food_n_drink",
+        "type": 1
       },
       {
         "id": "e41d8fdf-f41c-4006-a061-ce1828e1d56f",
         "name": "Groceries",
         "icon": "🥦",
-        "lang": "food_n_drink_groceries"
+        "lang": "food_n_drink_groceries",
+        "type": 1
       },
       {
         "id": "a33fbe04-d1cd-45f8-a361-f3ab4403ad2e",
         "name": "Cafe",
         "icon": "🥂",
-        "lang": "food_n_drink_cafe"
+        "lang": "food_n_drink_cafe",
+        "type": 1
       },
       {
         "id": "fa6e74e0-ccc1-4d0b-9337-c8b89a8a8064",
         "name": "Restaurant, fast-food",
         "icon": "🍟",
-        "lang": "food_n_drink_restaurant"
+        "lang": "food_n_drink_restaurant",
+        "type": 1
       }
     ]
   },
@@ -41,25 +45,29 @@
         "id": "dbb90fcf-2ab8-4b7d-abb5-8f7346eb99e4",
         "name": "Shopping",
         "icon": "🛍️",
-        "lang": "shopping"
+        "lang": "shopping",
+        "type": 1
       },
       {
         "id": "b9c72b58-24cd-4d7d-8a3e-4bf083c43d4a",
         "name": "Clothes",
         "icon": "👕",
-        "lang": "shopping_clothes"
+        "lang": "shopping_clothes",
+        "type": 1
       },
       {
         "id": "43b85976-b1f0-4e72-9729-3c090f269d4f",
         "name": "Electronics",
         "icon": "📻",
-        "lang": "shopping_electronics"
+        "lang": "shopping_electronics",
+        "type": 1
       },
       {
         "id": "45c70c80-5691-48c5-8896-99b1c0134f41",
         "name": "Stationary, tools",
         "icon": "📏",
-        "lang": "shopping_stationary"
+        "lang": "shopping_stationary",
+        "type": 1
       }
     ]
   },
@@ -73,31 +81,36 @@
         "id": "815d6836-c322-48d2-ba1a-55c3126e5d19",
         "name": "Housing",
         "icon": "🏡",
-        "lang": "housing"
+        "lang": "housing",
+        "type": 1
       },
       {
         "id": "4c80a6a8-c68d-4de9-8938-5d0c81321c9d",
         "name": "Energy, utilities",
         "icon": "🔋",
-        "lang": "housing_energy_utilities"
+        "lang": "housing_energy_utilities",
+        "type": 1
       },
       {
         "id": "9f067d3e-2a74-426f-94bf-b6add11c04f5",
         "name": "Mortgage",
         "icon": "💸",
-        "lang": "housing_mortgage"
+        "lang": "housing_mortgage",
+        "type": 1
       },
       {
         "id": "e2838a82-041e-4dcd-acbf-693aa59ad756",
         "name": "Maintenance, repairs",
         "icon": "🔨",
-        "lang": "housing_maintenance_repairs"
+        "lang": "housing_maintenance_repairs",
+        "type": 1
       },
       {
         "id": "dbd0a2b3-55c6-484c-ab8d-3522fa3c814d",
         "name": "Rent",
         "icon": "🗝️",
-        "lang": "housing_rent"
+        "lang": "housing_rent",
+        "type": 1
       }
     ]
   },
@@ -111,25 +124,29 @@
         "id": "a6effd40-7fe3-49a0-b4f9-692106b375d1",
         "name": "Transportation",
         "icon": "🚃",
-        "lang": "transportation"
+        "lang": "transportation",
+        "type": 1
       },
       {
         "id": "b1ef51fa-e09a-4e28-a8f7-c4f935397507",
         "name": "Public Transport",
         "icon": "🚊",
-        "lang": "transportation_public_transport"
+        "lang": "transportation_public_transport",
+        "type": 1
       },
       {
         "id": "e22da23d-b242-4c95-beba-c812f95e74ae",
         "name": "Taxi",
         "icon": "🚕",
-        "lang": "transportation_taxi"
+        "lang": "transportation_taxi",
+        "type": 1
       },
       {
         "id": "c19a676d-4fb8-46d3-a50d-3c0d14e21dc0",
         "name": "Business Trips",
         "icon": "🛫",
-        "lang": "transportation_business_trips"
+        "lang": "transportation_business_trips",
+        "type": 1
       }
     ]
   },
@@ -143,19 +160,22 @@
         "id": "1fcb04c1-1074-4979-9f20-1a9a67c75b62",
         "name": "Other",
         "icon": "📋",
-        "lang": "others"
-      },
-      {
-        "id": "8de78e57-e899-409c-828d-f5907b888b24",
-        "name": "Other Income",
-        "icon": "↙️",
-        "lang": "others_income"
+        "lang": "others",
+        "type": 1
       },
       {
         "id": "f930837b-63be-4f17-a016-f7d2bf01c757",
         "name": "Other Outcome",
         "icon": "↗️",
-        "lang": "others_outcome"
+        "lang": "others_outcome",
+        "type": 1
+      },
+      {
+        "id": "8de78e57-e899-409c-828d-f5907b888b24",
+        "name": "Other Income",
+        "icon": "↙️",
+        "lang": "others_income",
+        "type": 2
       }
     ]
   }

@@ -1,33 +1,33 @@
 [
   {
-    "id": "24eb3152-e688-45f3-ab66-0aefa0bf015c",
+    "id": "f597c7df-7d44-4c8e-9f6c-709d996e5b3f",
     "name": "Food & Drink",
     "icon": "🥘",
     "lang": "food_n_drink",
     "sub_category": [
       {
-        "id": "e602c33f-c12c-4e4d-b03c-429245bf3508",
+        "id": "010949a7-35c9-487a-a0f2-083039cdf91f",
         "name": "Food & Drink",
         "icon": "🥘",
         "lang": "food_n_drink",
         "type": 1
       },
       {
-        "id": "e41d8fdf-f41c-4006-a061-ce1828e1d56f",
+        "id": "2058ea3c-56aa-4514-915b-3a377fb37a68",
         "name": "Groceries",
         "icon": "🥦",
         "lang": "food_n_drink_groceries",
         "type": 1
       },
       {
-        "id": "a33fbe04-d1cd-45f8-a361-f3ab4403ad2e",
+        "id": "11c6103f-6a9d-40bb-a1a5-4eabd9684ca4",
         "name": "Cafe",
         "icon": "🥂",
         "lang": "food_n_drink_cafe",
         "type": 1
       },
       {
-        "id": "fa6e74e0-ccc1-4d0b-9337-c8b89a8a8064",
+        "id": "f4ea3076-982f-4bd9-8773-47d756db8904",
         "name": "Restaurant, fast-food",
         "icon": "🍟",
         "lang": "food_n_drink_restaurant",
@@ -36,34 +36,34 @@
     ]
   },
   {
-    "id": "4260f2af-a4b5-49bf-bdc4-ad6f1468a619",
+    "id": "3c57e795-8a17-4d97-a9fa-e229ea4f262c",
     "name": "Shopping",
     "icon": "🛍️",
     "lang": "shopping",
     "sub_category": [
       {
-        "id": "dbb90fcf-2ab8-4b7d-abb5-8f7346eb99e4",
+        "id": "c88c3388-b3c5-44fd-8486-4e00655fc49f",
         "name": "Shopping",
         "icon": "🛍️",
         "lang": "shopping",
         "type": 1
       },
       {
-        "id": "b9c72b58-24cd-4d7d-8a3e-4bf083c43d4a",
+        "id": "d168a60c-1246-4db0-8654-b490d29e30e5",
         "name": "Clothes",
         "icon": "👕",
         "lang": "shopping_clothes",
         "type": 1
       },
       {
-        "id": "43b85976-b1f0-4e72-9729-3c090f269d4f",
+        "id": "93d430cd-8d74-41fa-b3b7-3b68d9cb210d",
         "name": "Electronics",
         "icon": "📻",
         "lang": "shopping_electronics",
         "type": 1
       },
       {
-        "id": "45c70c80-5691-48c5-8896-99b1c0134f41",
+        "id": "16deaafa-ef34-4ccf-85fb-4f1ce9901b69",
         "name": "Stationary, tools",
         "icon": "📏",
         "lang": "shopping_stationary",
@@ -72,41 +72,41 @@
     ]
   },
   {
-    "id": "90bddb0d-7aa0-489c-a3aa-a95473d6f03f",
+    "id": "6fb75e8b-058e-427e-a656-8ce8c3d26020",
     "name": "Housing",
     "icon": "🏡",
     "lang": "housing",
     "sub_category": [
       {
-        "id": "815d6836-c322-48d2-ba1a-55c3126e5d19",
+        "id": "1879e3fc-b10b-4919-ac6d-f3440a8de6ad",
         "name": "Housing",
         "icon": "🏡",
         "lang": "housing",
         "type": 1
       },
       {
-        "id": "4c80a6a8-c68d-4de9-8938-5d0c81321c9d",
+        "id": "147a4613-7760-4f97-8f13-bd1bdc30b5a6",
         "name": "Energy, utilities",
         "icon": "🔋",
         "lang": "housing_energy_utilities",
         "type": 1
       },
       {
-        "id": "9f067d3e-2a74-426f-94bf-b6add11c04f5",
+        "id": "3b1af8e9-3d35-46fb-a570-ca9f74273115",
         "name": "Mortgage",
         "icon": "💸",
         "lang": "housing_mortgage",
         "type": 1
       },
       {
-        "id": "e2838a82-041e-4dcd-acbf-693aa59ad756",
+        "id": "898e8371-7b12-4c2c-9c37-bdeb73545d4c",
         "name": "Maintenance, repairs",
         "icon": "🔨",
         "lang": "housing_maintenance_repairs",
         "type": 1
       },
       {
-        "id": "dbd0a2b3-55c6-484c-ab8d-3522fa3c814d",
+        "id": "176f950c-7065-4e1a-b86f-de8e33f3dd93",
         "name": "Rent",
         "icon": "🗝️",
         "lang": "housing_rent",
@@ -115,34 +115,34 @@
     ]
   },
   {
-    "id": "97c6fce5-5d3c-4bd9-b9ad-f05e141db565",
+    "id": "2277a83b-b405-46fd-af76-60b027f030d5",
     "name": "Transportation",
     "icon": "🚃",
     "lang": "transportation",
     "sub_category": [
       {
-        "id": "a6effd40-7fe3-49a0-b4f9-692106b375d1",
+        "id": "ecd86be5-dfe4-4ef0-8a2b-bad462271306",
         "name": "Transportation",
         "icon": "🚃",
         "lang": "transportation",
         "type": 1
       },
       {
-        "id": "b1ef51fa-e09a-4e28-a8f7-c4f935397507",
+        "id": "149e2994-7887-4d04-81c2-d2e896affbb1",
         "name": "Public Transport",
         "icon": "🚊",
         "lang": "transportation_public_transport",
         "type": 1
       },
       {
-        "id": "e22da23d-b242-4c95-beba-c812f95e74ae",
+        "id": "4f91f5bc-f39e-429b-abe5-7eaab826f7cf",
         "name": "Taxi",
         "icon": "🚕",
         "lang": "transportation_taxi",
         "type": 1
       },
       {
-        "id": "c19a676d-4fb8-46d3-a50d-3c0d14e21dc0",
+        "id": "a43cf2ff-fea8-4134-bb43-f61015420575",
         "name": "Business Trips",
         "icon": "🛫",
         "lang": "transportation_business_trips",
@@ -151,31 +151,31 @@
     ]
   },
   {
-    "id": "264a6056-d2b6-41c1-be11-3ff7d9109964",
+    "id": "d6b02499-4da3-4b3b-8daa-7223dde8ecad",
     "name": "Others",
     "icon": "📋",
     "lang": "others",
     "sub_category": [
       {
-        "id": "1fcb04c1-1074-4979-9f20-1a9a67c75b62",
+        "id": "6e3e465c-f3ec-420b-9d2b-111006c8bbb5",
         "name": "Other",
         "icon": "📋",
         "lang": "others",
         "type": 1
       },
       {
-        "id": "f930837b-63be-4f17-a016-f7d2bf01c757",
-        "name": "Other Outcome",
-        "icon": "↗️",
-        "lang": "others_outcome",
-        "type": 1
-      },
-      {
-        "id": "8de78e57-e899-409c-828d-f5907b888b24",
+        "id": "373ee03f-703f-4476-8904-20bfe32b5cbb",
         "name": "Other Income",
         "icon": "↙️",
         "lang": "others_income",
         "type": 2
+      },
+      {
+        "id": "21ab57b8-c4e0-40d3-aa9a-0ec4db3491a5",
+        "name": "Other Outcome",
+        "icon": "↗️",
+        "lang": "others_outcome",
+        "type": 1
       }
     ]
   }
